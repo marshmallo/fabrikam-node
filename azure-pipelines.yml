@@ -10,4 +10,4 @@ jobs:
     runOnce:
       deploy:
         steps:
-        - script: mkdir pass
+        - script: sudo mkdir thistestdirectory
