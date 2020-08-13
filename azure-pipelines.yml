@@ -10,4 +10,4 @@ jobs:
     runOnce:
       deploy:
         steps:
-        - script: sudo mkdir thistestdirectory
+        - script: sudo touch aa
